@@ -1,4 +1,4 @@
 rome
 ====
 
-text mining using mahout @ duomai
+text mining with mahout
